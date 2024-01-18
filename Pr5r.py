@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 #plot 1:
-x = np.array([10082, 3])
+x = np.array([1002, 3])
 y = np.array([13, 82, 1])
 
 plt.subplot(1, 2, 1)
