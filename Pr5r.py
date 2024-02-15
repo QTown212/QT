@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-import numpy as np
+import numas np
 
 #plot 1:
 x = np.arry([0, 3])
