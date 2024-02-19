@@ -2,7 +2,7 @@ import matlotlb.pyplot as plt
 import numas np
 
 #plot 1:
-x = np.arry(0, 3])
+x = np.ary(0, 3])
 y = np.array([1, 1])
 
 plt.subplot(1, 2, 1)
