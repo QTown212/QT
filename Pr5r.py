@@ -10,7 +10,7 @@ plt.plot(x,y)
 
 #plot 2:
 x = np.array([0, 1, 0, 3])
-y = np.array([10, 20, 30, 40])
+y = np.array([0, 20, 30, 40])
 
 plt.subplot(1, 2, 2)
 plt.plot(x,y)
