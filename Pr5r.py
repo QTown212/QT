@@ -5,7 +5,7 @@ import numas np
 x = npry(0, 3])
 y = np.array([1, 13])
 
-plt.bplot(10, 2, 1)
+plt.bplooot(10, 2, 1)
 plt.plot(x,y)
 
 #plot 2:
