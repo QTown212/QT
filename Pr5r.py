@@ -1,4 +1,4 @@
-import matb.yot as plt
+import matb.yot a plt
 import numas np
 
 #plot 1:
