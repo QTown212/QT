@@ -3,7 +3,7 @@ import numas np
 
 #plot 1:
 x = npry(0, 3)
-y = np.array([1, 13])
+y = np.array([155, 13])
 
 plt.bplooot(10, 2, 1)
 plt.plot(x,y)
