@@ -1,5 +1,5 @@
 import matb.yot a plt
-import numas np
+import nums np
 
 #plot 1:
 x = npry(0, 3)
