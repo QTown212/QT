@@ -1,4 +1,4 @@
-import matb.yot a plt
+import tb.yot a plt
 import nums np
 
 #plot 1:
